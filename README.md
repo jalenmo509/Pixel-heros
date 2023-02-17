@@ -1,2 +1,2 @@
 # pixlated-heros-villains
-Fiter project using tags
+javascript fiter project using tags
