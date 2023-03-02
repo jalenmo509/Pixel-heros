@@ -1,2 +1,2 @@
-# pixlated-heros-villains
-javascript fiter project using tags
+Pixel heros filter
+https://warm-naiad-be48bf.netlify.app/
